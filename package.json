@@ -1,0 +1,32 @@
+{
+  "name": "bluemix-secure-gateway",
+  "version": "1.0.0",
+  "dependencies": {
+    "request": ">=2.40.0"
+  },
+  "main": "./main.js",
+  "license": "MIT",
+  "description": "The Secure Gateway SDK for Bluemix contains a set of javascript wrapper APIs for Secure Gateway REST calls to the Bluemix Secure Gateway service.",
+  "_id": "bluemix-secure-gateway@1.0.0",
+  "scripts": {},
+  "_shasum": "d41ccdde6821cd983583a9546ea7118cc4d1b974",
+  "_from": "bluemix-secure-gateway@*",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "bluemixsecuregateway",
+    "email": "cisandbx@us.ibm.com"
+  },
+  "maintainers": [
+    {
+      "name": "bluemixsecuregateway",
+      "email": "cisandbx@us.ibm.com"
+    }
+  ],
+  "dist": {
+    "shasum": "d41ccdde6821cd983583a9546ea7118cc4d1b974",
+    "tarball": "http://registry.npmjs.org/bluemix-secure-gateway/-/bluemix-secure-gateway-1.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/bluemix-secure-gateway/-/bluemix-secure-gateway-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
